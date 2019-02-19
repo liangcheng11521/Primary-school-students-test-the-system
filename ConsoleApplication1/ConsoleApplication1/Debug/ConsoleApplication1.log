@@ -1,0 +1,40 @@
+﻿  ConsoleApplication1.cpp
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(31): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(94): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(193): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(193): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(193): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(193): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(277): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(277): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(277): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(277): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(318): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(321): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(325): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(327): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(386): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(407): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(410): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(419): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(422): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(428): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(430): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(527): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(527): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(527): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(527): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(392): warning C4101: “ans”: 未引用的局部变量
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(642): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(642): note: 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(642): note: 缺失的可变参数 2 为格式字符串“%c”所需
+  f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(642): note: 此参数用作缓冲区大小
+f:\c语言\consoleapplication1\consoleapplication1\consoleapplication1.cpp(743): warning C4715: “signconvertchar”: 不是所有的控件路径都返回值
+  ConsoleApplication1.vcxproj -> F:\C语言\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> F:\C语言\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
